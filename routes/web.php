@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/wisnu', function () {
+    return view('welcome');
+});Route::get('/wisnuuu', function () {
+    return view('welcome');
+});
